@@ -32,12 +32,26 @@ export default function Page() {
           </Link>
         </div>
         <div className="flex items-center justify-center p-6 md:w-3/5 md:px-28 md:py-12">
+          {/*
+            ms: @media (min-width: 640px)
+            md: @media (min-width: 768px)
+            lg: @media (min-width: 1024px)
+            xl: @media (min-width: 1280px)
+            2xl: @media (min-width: 1536px)
+          */}
           <Image
             src="/hero-desktop.png"
             alt=""
             width={1000}
             height={760}
             className="hidden md:block"
+          />
+          <Image
+            src="/hero-mobile.png"
+            alt=""
+            width={560}
+            height={620}
+            className="block md:hidden"
           />
         </div>
       </div>

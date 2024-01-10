@@ -1,5 +1,7 @@
-## Next.js App Router Course - Starter
+https://next-js-14-pi.vercel.app/
 
-This is the starter template for the Next.js App Router Course. It contains the starting code for the dashboard application.
+### Recommended reading
 
-For more information, see the [course curriculum](https://nextjs.org/learn) on the Next.js Website.
+- https://nextjs.org/learn/dashboard-app/optimizing-fonts-images#recommended-reading
+
+
